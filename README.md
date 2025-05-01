@@ -5,8 +5,8 @@ This resource provides a complete example of using the Infinity Core callback sy
 ## Installation
 
 1. Ensure `infinity_core` is installed.
-2. Place the `infinity_test_callback` folder in your `resources` directory.
-3. Add `ensure infinity_test_callback` to your `server.cfg`.
+2. Place the `infinity_axample_callback_and_inventory` folder in your `resources` directory.
+3. Add `ensure infinity_axample_callback_and_inventory` to your `server.cfg`.
 
 ## Available Examples
 
